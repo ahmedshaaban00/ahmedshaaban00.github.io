@@ -1,0 +1,127 @@
+@media screen and (max-width:480px) {
+ #gallery li:nth-child(3n) {
+        clear:left;
+        }
+  #gallery li:nth-child(5n) {
+        clear:left;
+        }
+ #gallery li:nth-child(6n) {
+        clear:right;
+        }
+ #gallery li:nth-child(7n) {
+        clear:left;
+        }
+
+
+}
+/****************
+PAGE: ILLUSTRATOR
+****************/
+     #gallery li:nth-child(9n) {
+        float:right;
+    }
+     #gallery li:nth-child(10n) {
+        clear:left;
+    }
+
+    #gallery li:nth-child(14n) {
+        clear:initial;
+    }
+
+@media screen and (min-width:480px) {
+/****************
+TWO COLUMN LAYOUT
+****************/
+
+    #primary {
+       width:50%;
+       float:left
+    }
+
+    #secondary {
+        width:40%;
+        float:right;
+    }
+
+/****************
+PAGE: PORTFOLIO
+****************/
+   
+    
+    #gallery li {
+        width:28.3333%;
+    
+    }
+       
+    #gallery li:nth-child(4n) {
+        clear:left;
+        }
+
+    #gallery li:nth-child(7n) {
+        clear:left;
+        }
+    #gallery li:nth-child(8n) {
+    clear:initial;
+    }
+
+    #gallery li:nth-child(12n) {
+    clear:initial;
+    }
+    #gallery li:nth-child(14n) {
+    clear:initial;
+    }
+/****************
+PAGE: ABOUT
+****************/
+    .profile-photo {
+        float:left;
+        margin:0 5% 80px 0;
+    }
+}
+
+@media screen and (max-width:660px) {
+    #gallery li:nth-child(10n) {
+    clear:left;
+    }
+
+}
+
+
+@media screen and (min-width: 660px) {
+
+/****************
+PAGE: HEADER
+****************/
+    nav {
+        background:none;
+        float:right;
+        font-size: 1.125em;
+        margin-right: 5%;
+        text-align:right;
+        width:45%;
+    }
+
+    #logo {
+    float:left;
+    margin-left: 5%;
+    text-align:left;
+    width:45%
+    }
+
+    h1 {
+        font-size:2.5em;
+    }
+
+    h2 {
+        font-size: 0.825em;
+        margin-bottom:20px;
+    }
+
+    header {
+        border-bottom:5px solid #248fb9;
+        margin-bottom:60px;
+    }
+
+
+
+}
