@@ -1,3 +1,3 @@
 # Ahmed Abouelmagd
-# Front-end Developer
-# Personal Portfolio for my work.
+Front-end Developer
+Personal Portfolio for my work.
