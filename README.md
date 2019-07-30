@@ -2,7 +2,7 @@
 
 Front-end Engineer
 
-I'm a 21 years old Front-end Developer who loves to code!
+I'm a 22 years old Front-end Engineer who loves to code!
 
 This is my personal portfolio.
 
